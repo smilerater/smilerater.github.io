@@ -741,6 +741,7 @@ footer {
 }
 
 .video-share-wrapper {
+    margin-top: 34px;
     clear: both;
     text-align: center;
 }
